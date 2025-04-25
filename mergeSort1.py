@@ -68,6 +68,6 @@ mergeSort(arr , 0 , len(arr)-1)
 
 print("Array after sorting:")
 print(arr)
-
+print("Hello World!")
 
 		
